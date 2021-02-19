@@ -1,0 +1,2 @@
+Press [ to toggle Valmanway
+Press ] to stop program in case things go out of control
