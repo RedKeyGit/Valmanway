@@ -1,2 +1,8 @@
 # Valmanway
-Requirements: Python 3.5.2, pynput (can be easily done by doing pip install pynput)
+Requirements: Python 3.5.2, pynput
+
+Instructions:
+
+Press [ to toggle
+
+Press ] to stop program (in case it goes out of control)
