@@ -1,4 +1,6 @@
 # Valmanway
+Desc: Auto-clicker
+
 Requirements: Python 3.5.2, pynput
 
 Instructions:
