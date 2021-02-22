@@ -1,3 +1,0 @@
-Press [ to toggle Valmanway
-Press ] to stop program in case things go out of control
-Requirement: Python 3.5.2
